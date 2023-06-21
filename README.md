@@ -1,7 +1,3 @@
----
-title: "Peridendes"
-permalink: /
----
 # Hello World!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed scelerisque pharetra nisl, eu dignissim diam ultrices quis. Praesent cursus vehicula pulvinar. Praesent vitae ante rhoncus dolor consequat venenatis. Duis ac enim ac tortor dictum aliquam. Quisque sapien sapien, mattis non sapien non, tempor malesuada ante. Proin laoreet augue et velit pellentesque imperdiet. Cras aliquet, dolor id ultricies venenatis, tortor leo tincidunt elit, ut rutrum tellus metus at nibh. Duis arcu velit, molestie sed est non, placerat varius turpis. Donec ac massa magna. Proin rhoncus imperdiet fermentum. Donec pellentesque, est id sagittis suscipit, diam urna facilisis ante, non sodales mi ante nec turpis.
